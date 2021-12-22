@@ -1,0 +1,30 @@
+body {
+    background-color: seagreen;
+}
+
+h1 {
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.texto1 {
+    color: white;
+    font-style: italic;
+}
+
+.texto2 {
+    color: wheat;
+    font-size: 18px;
+}
+
+.texto3 {
+    color: orange;
+    font-size: 22px;
+}
+
+.texto4 {
+    color: red;
+}
+
+

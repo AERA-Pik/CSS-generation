@@ -1,0 +1,30 @@
+body {
+    background-color: powderblue;
+}
+
+h1 {
+    text-align: right;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.remark1 {
+    color: orange;
+}
+
+.remark2 {
+    color: orange;
+    font-weight: bold;
+}
+
+.remark3 {
+    color: green;
+    background-color: white;
+    font-style: italic;
+}
+
+.footer {
+    text-align: center;
+    font-size: 10px;
+    font-style: italic;
+}

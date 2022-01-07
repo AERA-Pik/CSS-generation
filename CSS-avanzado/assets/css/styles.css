@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@300;700&family=Montserrat:wght@200;600&display=swap');
+
+h1  {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+p {
+    font-family: 'Comic Neue', cursive;
+    font-size: 40px;
+    font-weight: 300;
+}
